@@ -49,5 +49,11 @@ Businesses need to understand customer purchasing behavior, identify high-perfor
 - [MySQL Queries](SQL/Sales%20Data%20Analysis.sql)
 - [Power BI Dashboard](PowerBI/Sales%20dataset%20project.pbix)
 
+## 📄 Project Report
+
+The complete project documentation is available in the Report folder.
+
+📂 [View Project Report](Report/Customer_Purchase_Analysis_Complete_Project_Report..pdf)
+
 ## Conclusion
 This project demonstrates an end-to-end data analytics workflow, from data cleaning and exploratory analysis to SQL-based business analysis and interactive dashboard development.
